@@ -19,9 +19,9 @@ paginate_path: "/portfolio/page:num/"
 
 
 collections:
-  development:
+  web-development:
     output: true
-    permalink: /development/:path/
+    permalink: /web-development/:path/
   design:
     output: true
     permalink: /design/:path/
