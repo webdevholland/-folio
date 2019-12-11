@@ -194,16 +194,6 @@ pre {
  * Wrapper
  */ 
 
-.site-footer.wrapper {
-    max-width: -webkit-calc(400px - (#{$horizontal-spacing-unit} * 2));
-    max-width:         calc(400px - (#{$horizontal-spacing-unit} * 2));
-
-    @include media-query($on-laptop) {
-        max-width: -webkit-calc(400px - (#{$horizontal-spacing-unit}));
-        max-width:         calc(400px - (#{$horizontal-spacing-unit}));
-    }
-}
-
 .wrapper {
     max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit} * 2));
     max-width:         calc(800px - (#{$horizontal-spacing-unit} * 2));
