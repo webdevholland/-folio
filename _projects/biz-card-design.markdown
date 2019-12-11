@@ -2,7 +2,7 @@
 layout: post
 title: Business Card Design
 description: a Skillcrush Visual Design project
-img: /img/My-cocoon-icon-circle-color.png
+img: img/My-cocoon-icon-circle-color.png
 ---
 
 I designed a business card for a ficticious business as part of a <a href="https://skillcrush.com/blueprint/visual-designer/">Visual Design course</a> at <a href="https://skillcrush.com/">Skillcrush</a>.
