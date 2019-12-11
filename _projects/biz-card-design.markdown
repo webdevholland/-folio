@@ -11,8 +11,14 @@ These designs were created using <a href="https://www.adobe.com/products/photosh
 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/my-biz-card-front-FINAL.png" alt="" title="business card front"/>
+</div>
+<div class="col one caption">
+	Front of business card.
+</div>
+
+<div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/my-biz-card-back-FINAL.png" alt="" title="business card back"/>
-	</div>
-<div class="col two caption">
-  On the left, the front of the business card. Right, the back of the card.
+</div>
+<div class="col one caption">
+	Back of card.
 </div>
