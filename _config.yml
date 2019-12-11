@@ -21,7 +21,7 @@ paginate_path: "/portfolio/page:num/"
 collections:
   projects:
     output: true
-    permalink: /projects/:path/
+    permalink: projects/:path/
  # web-development:
  #   output: true
  #   permalink: /web-development/:path/
