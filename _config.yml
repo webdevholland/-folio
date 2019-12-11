@@ -19,11 +19,14 @@ paginate_path: "/portfolio/page:num/"
 
 
 collections:
-  web-development:
+  projects:
     output: true
-    permalink: /web-development/:path/
-  design:
-    output: true
-    permalink: /design/:path/
+    permalink: /projects/:path/
+ # web-development:
+ #   output: true
+ #   permalink: /web-development/:path/
+ # design:
+ #   output: true
+ #   permalink: /design/:path/
 
 
