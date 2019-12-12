@@ -14,6 +14,6 @@ Learn more about me by reading my <a href="https://www.webdevholland.com/">blog<
 <hr/>
 <br/>
 <span class="contacticon center">
-	<a href="{{ site.github_username }}"><i class="fa fa-github-square"></i></a>
-	<a href="{{ site.twitter_username }}"><i class="fa fa-twitter-square"></i></a>
+	<a href="https://github.com/webdevholland/webdevholland.github.io"><i class="fa fa-github-square"></i></a>
+	<a href="https://www.twitter.com/webdevholland"><i class="fa fa-twitter-square"></i></a>
 </span>
