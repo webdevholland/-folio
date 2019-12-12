@@ -4,8 +4,6 @@ description: > # this means to ignore newlines until "baseurl:"
   web development and design projects of christine holland.
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog/
 url: https://www.webdevholland.com/portfolio/ # the base hostname & protocol for your site
-twitter_username: webdevholland
-github_username:  webdevholland
 
 # Build settings
 markdown: kramdown
